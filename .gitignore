@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+composer.phar
+composer.bat
+test.php
+vendor/

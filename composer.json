@@ -1,0 +1,16 @@
+{
+    "name": "thunder/soap-test",
+    "description": "Description",
+    "type": "project",
+    "license": "GNU",
+    "minimum-stability": "dev",
+    "require": {
+        "electrolinux/phpquery": "dev-master",
+        "pr-of-it/t4-app-mini": "dev-master"
+    },
+    "autoload": {
+        "files": [
+            "config.php"
+        ]
+    }
+}
